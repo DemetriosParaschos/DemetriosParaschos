@@ -4,6 +4,5 @@
 - More on the VERITRACE project on: veritrace.eu
 
 - 👀 I’m interested in ancient philosophy and its receotion
-- 🌱 I’m currently learning Python for Digital Humanities
+- 🌱 I’m currently learning Python for Digital Humanities, working on Text Classification ML for Latin Texts.
 - 📫 To reach me: demetrios.paraschos@vub.be
-
